@@ -1,1 +1,1 @@
-# Bigdata_Capstone_Design
+# 빅데이터 캡스톤디자인 '자격증 시험 정보 제공 챗봇' 팀 입니다.
