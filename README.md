@@ -33,6 +33,7 @@
 
 # 시스템 구성도
 
+<img width="775" alt="구성도" src="https://user-images.githubusercontent.com/70565692/95938476-edff5300-0e14-11eb-97d8-e1d1dd073999.png">
 
 # 개발환경
 + kakako i open builder
