@@ -33,7 +33,7 @@
 
 # 시스템 순서도
 
-<img width="775" alt="구성도" src="https://user-images.githubusercontent.com/70565692/95938476-edff5300-0e14-11eb-97d8-e1d1dd073999.png">
+<img width="549" alt="순서도" src="https://user-images.githubusercontent.com/70565692/95938618-33bc1b80-0e15-11eb-9a85-dfbeae1bb3f7.png">
 
 # 개발환경
 + kakako i open builder
