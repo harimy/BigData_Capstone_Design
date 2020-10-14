@@ -52,12 +52,28 @@ weekly report  주간보고 디렉토리
 ```
 
 ## 보고서
-
+[신청서](https://github.com/seeoonghoo/BigData_Capstone_Design/blob/master/documents/2020-2%ED%95%99%EA%B8%B0%20%EC%BA%A1%EC%8A%A4%ED%86%A4%EB%94%94%EC%9E%90%EC%9D%B8%EC%8B%A0%EC%B2%AD%EC%84%9C_%EC%9E%90%EA%B2%A9%EC%A6%9D%20%EC%8B%9C%ED%97%98%20%EC%A0%95%EB%B3%B4%20%EC%A0%9C%EA%B3%B5%20%EC%B1%97%EB%B4%87_CC_%EC%B5%9C%EC%A2%85.hwp)
+[제안서](https://github.com/seeoonghoo/BigData_Capstone_Design/blob/master/documents/2020%EB%85%84%202%ED%95%99%EA%B8%B0%20%EC%BA%A1%EC%8A%A4%ED%86%A4%EB%94%94%EC%9E%90%EC%9D%B8%ED%95%99%EC%83%9D%EC%A0%9C%EC%95%88%EC%84%9C_%EC%9E%90%EA%B2%A9%EC%A6%9D%20%EC%8B%9C%ED%97%98%20%EC%A0%95%EB%B3%B4%20%EC%A0%9C%EA%B3%B5%20%EC%B1%97%EB%B4%87_CC.hwp)
+[중간보고서]
 ## 회의록
-
-## 사전 지식
-없음
+[1차회의록_200903](https://github.com/seeoonghoo/BigData_Capstone_Design/blob/master/minutes/CC_200903_1%EC%B0%A8_%ED%9A%8C%EC%9D%98%EB%A1%9D.hwp)
+[2차회의록_200910](https://github.com/seeoonghoo/BigData_Capstone_Design/blob/master/minutes/CC_200910_2%EC%B0%A8_%ED%9A%8C%EC%9D%98%EB%A1%9D.hwp)
+[3차회의록_200917](https://github.com/seeoonghoo/BigData_Capstone_Design/blob/master/minutes/CC_200917_3%EC%B0%A8_%ED%9A%8C%EC%9D%98%EB%A1%9D.hwp)
+[4차회의록_200927](https://github.com/seeoonghoo/BigData_Capstone_Design/blob/master/minutes/CC_200927_4%EC%B0%A8_%ED%9A%8C%EC%9D%98%EB%A1%9D.hwp)
+[5차회의록_200928](https://github.com/seeoonghoo/BigData_Capstone_Design/blob/master/minutes/CC_200928_5%EC%B0%A8_%ED%9A%8C%EC%9D%98%EB%A1%9D.hwp)
+[6차회의록_201005](https://github.com/seeoonghoo/BigData_Capstone_Design/blob/master/minutes/CC_201005_6%EC%B0%A8_%ED%9A%8C%EC%9D%98%EB%A1%9D.hwp)
 
 ## 구현
++ 카카오 채널 소개 (사용자 전용)
+
+<img width="210" alt="자격이 메인" src="https://user-images.githubusercontent.com/70565692/95939433-07a19a00-0e17-11eb-930e-ae57bb4eb9bf.png">
+
++ 사용 예시 (자격증명 입력)
+
+<img width="443" alt="자격이 구현" src="https://user-images.githubusercontent.com/70565692/95939456-138d5c00-0e17-11eb-988a-2a317a82792f.png">
+
++ 사용 예시 (버튼 클릭)
+
+<img width="443" alt="자격이 구현2" src="https://user-images.githubusercontent.com/70565692/95939483-2869ef80-0e17-11eb-977b-8a7294787459.png">
 
 
