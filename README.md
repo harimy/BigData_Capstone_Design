@@ -53,14 +53,21 @@ weekly report  주간보고 디렉토리
 
 ## 보고서
 [신청서](https://github.com/seeoonghoo/BigData_Capstone_Design/blob/master/documents/2020-2%ED%95%99%EA%B8%B0%20%EC%BA%A1%EC%8A%A4%ED%86%A4%EB%94%94%EC%9E%90%EC%9D%B8%EC%8B%A0%EC%B2%AD%EC%84%9C_%EC%9E%90%EA%B2%A9%EC%A6%9D%20%EC%8B%9C%ED%97%98%20%EC%A0%95%EB%B3%B4%20%EC%A0%9C%EA%B3%B5%20%EC%B1%97%EB%B4%87_CC_%EC%B5%9C%EC%A2%85.hwp)
+
 [제안서](https://github.com/seeoonghoo/BigData_Capstone_Design/blob/master/documents/2020%EB%85%84%202%ED%95%99%EA%B8%B0%20%EC%BA%A1%EC%8A%A4%ED%86%A4%EB%94%94%EC%9E%90%EC%9D%B8%ED%95%99%EC%83%9D%EC%A0%9C%EC%95%88%EC%84%9C_%EC%9E%90%EA%B2%A9%EC%A6%9D%20%EC%8B%9C%ED%97%98%20%EC%A0%95%EB%B3%B4%20%EC%A0%9C%EA%B3%B5%20%EC%B1%97%EB%B4%87_CC.hwp)
+
 [중간보고서]
 ## 회의록
 [1차회의록_200903](https://github.com/seeoonghoo/BigData_Capstone_Design/blob/master/minutes/CC_200903_1%EC%B0%A8_%ED%9A%8C%EC%9D%98%EB%A1%9D.hwp)
+
 [2차회의록_200910](https://github.com/seeoonghoo/BigData_Capstone_Design/blob/master/minutes/CC_200910_2%EC%B0%A8_%ED%9A%8C%EC%9D%98%EB%A1%9D.hwp)
+
 [3차회의록_200917](https://github.com/seeoonghoo/BigData_Capstone_Design/blob/master/minutes/CC_200917_3%EC%B0%A8_%ED%9A%8C%EC%9D%98%EB%A1%9D.hwp)
+
 [4차회의록_200927](https://github.com/seeoonghoo/BigData_Capstone_Design/blob/master/minutes/CC_200927_4%EC%B0%A8_%ED%9A%8C%EC%9D%98%EB%A1%9D.hwp)
+
 [5차회의록_200928](https://github.com/seeoonghoo/BigData_Capstone_Design/blob/master/minutes/CC_200928_5%EC%B0%A8_%ED%9A%8C%EC%9D%98%EB%A1%9D.hwp)
+
 [6차회의록_201005](https://github.com/seeoonghoo/BigData_Capstone_Design/blob/master/minutes/CC_201005_6%EC%B0%A8_%ED%9A%8C%EC%9D%98%EB%A1%9D.hwp)
 
 ## 구현
