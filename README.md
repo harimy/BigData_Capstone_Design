@@ -9,6 +9,9 @@
 # 팀
 
 + 팀명 : CC
++ 로고
+  
+  <img width = "500" alt="로고" src="https://user-images.githubusercontent.com/70565692/95938151-3e29e580-0e14-11eb-9bd7-a098e6b7528f.jpg">
 + 팀원
   + 박은솔 
   + 염진기 
