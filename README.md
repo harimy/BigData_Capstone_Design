@@ -39,11 +39,12 @@
 + kakako i open builder
 
 # 디렉토리 구조
-+ documents : 신청서, 중간 보고서 등 문서 디렉토리
-+ ect : 정보 조사 정리 디렉토리
-+ minutes : 회의록 디렉토리
-+ weekly report : 주간보고 디렉토리
-
+```java
+documents     : 신청서, 중간 보고서 등 문서 디렉토리
+ect           : 정보 조사 정리 디렉토리
+minutes       : 회의록 디렉토리
+weekly report : 주간보고 디렉토리
+```
 # 사전 지식
 없음
 
