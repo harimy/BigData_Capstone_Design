@@ -31,7 +31,7 @@
   + 자격증 시험 일정을 파악하여 일정 관리에 용이
   + 사용자 입력 정보를 통한 많이 찾는 자격증 확인
 
-# 시스템 구성도
+# 시스템 순서도
 
 <img width="775" alt="구성도" src="https://user-images.githubusercontent.com/70565692/95938476-edff5300-0e14-11eb-97d8-e1d1dd073999.png">
 
