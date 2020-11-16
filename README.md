@@ -65,8 +65,12 @@ weekly report  주간보고 디렉토리
   + [2차회의록_200910](https://github.com/seeoonghoo/BigData_Capstone_Design/blob/master/minutes/CC_200910_2%EC%B0%A8_%ED%9A%8C%EC%9D%98%EB%A1%9D.hwp)
   + [3차회의록_200917](https://github.com/seeoonghoo/BigData_Capstone_Design/blob/master/minutes/CC_200917_3%EC%B0%A8_%ED%9A%8C%EC%9D%98%EB%A1%9D.hwp)
   + [4차회의록_200927](https://github.com/seeoonghoo/BigData_Capstone_Design/blob/master/minutes/CC_200927_4%EC%B0%A8_%ED%9A%8C%EC%9D%98%EB%A1%9D.hwp)
-  + [5차회의록_200928](https://github.com/seeoonghoo/BigData_Capstone_Design/blob/master/minutes/CC_200928_5%EC%B0%A8_%ED%9A%8C%EC%9D%98%EB%A1%9D.hwp)
-  + [6차회의록_201005](https://github.com/seeoonghoo/BigData_Capstone_Design/blob/master/minutes/CC_201005_6%EC%B0%A8_%ED%9A%8C%EC%9D%98%EB%A1%9D.hwp)
+  + [5차회의록_201005](https://github.com/seeoonghoo/BigData_Capstone_Design/blob/master/minutes/CC_201005_5%EC%B0%A8_%ED%9A%8C%EC%9D%98%EB%A1%9D.hwp)
+  + [6차회의록_201012](https://github.com/seeoonghoo/BigData_Capstone_Design/blob/master/minutes/CC_201012_6%EC%B0%A8_%ED%9A%8C%EC%9D%98%EB%A1%9D.hwp)
+  + [7차회의록_201026](https://github.com/seeoonghoo/BigData_Capstone_Design/blob/master/minutes/CC_201026_7%EC%B0%A8_%ED%9A%8C%EC%9D%98%EB%A1%9D.hwp)
+  + [8차회의록_201102](https://github.com/seeoonghoo/BigData_Capstone_Design/blob/master/minutes/CC_201102_8%EC%B0%A8_%ED%9A%8C%EC%9D%98%EB%A1%9D.hwp)
+  + [9차회의록_201109](https://github.com/seeoonghoo/BigData_Capstone_Design/blob/master/minutes/CC_201109_9%EC%B0%A8_%ED%9A%8C%EC%9D%98%EB%A1%9D.hwp)
+  + [10차회의록_201116](https://github.com/seeoonghoo/BigData_Capstone_Design/blob/master/minutes/CC_201116_10%EC%B0%A8_%ED%9A%8C%EC%9D%98%EB%A1%9D.hwp)
 
 ## 구현
 + 카카오 채널 소개 (사용자 전용)
