@@ -36,7 +36,8 @@
 <img width="1000" alt="순서도" src="https://user-images.githubusercontent.com/70565692/100828363-4dd3bb00-34a2-11eb-9935-d186cf68fef1.png">
 
 ## 기능
-+ 자격증 시험 일정, 접수 홈페이지 링크
++ 자격증 시험 일정 링크
++ 시험자격 및 합격기준 확인 링크
 + 응시료 및 준비물 확인
 + 유사 자격증 추천
 
