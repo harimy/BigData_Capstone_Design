@@ -83,6 +83,10 @@ weekly report  주간보고 디렉토리
 
 <img width="210" alt="자격이 메인" src="https://user-images.githubusercontent.com/70565692/95939433-07a19a00-0e17-11eb-930e-ae57bb4eb9bf.png">
 
++ 사용 예시 (이용방법)
+
+<img width="443" alt="자격이 구현" src="https://user-images.githubusercontent.com/70565692/100828115-af475a00-34a1-11eb-9fcb-d0b3af1b652a.png">
+
 + 사용 예시 (자격증명 입력)
 
 <img width="443" alt="자격이 구현" src="https://user-images.githubusercontent.com/70565692/95939456-138d5c00-0e17-11eb-988a-2a317a82792f.png">
