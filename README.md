@@ -33,7 +33,7 @@
 
 ## 시스템 순서도
 
-<img width="549" alt="순서도" src="https://user-images.githubusercontent.com/70565692/95938618-33bc1b80-0e15-11eb-9a85-dfbeae1bb3f7.png">
+<img width="1000" alt="순서도" src="https://user-images.githubusercontent.com/70565692/100828363-4dd3bb00-34a2-11eb-9935-d186cf68fef1.png">
 
 ## 기능
 + 자격증 시험 일정, 접수 홈페이지 링크
