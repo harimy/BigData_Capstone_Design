@@ -89,10 +89,10 @@ weekly report  주간보고 디렉토리
 
 + 사용 예시 (자격증명 입력)
 
-<img width="443" alt="자격이 구현" src="https://user-images.githubusercontent.com/70565692/95939456-138d5c00-0e17-11eb-988a-2a317a82792f.png">
+<img width="443" alt="자격이 구현" src="https://user-images.githubusercontent.com/70565692/100828216-f6cde600-34a1-11eb-8b93-468161ccfd36.png">
 
 + 사용 예시 (버튼 클릭)
 
-<img width="443" alt="자격이 구현2" src="https://user-images.githubusercontent.com/70565692/95939483-2869ef80-0e17-11eb-977b-8a7294787459.png">
+<img width="443" alt="자격이 구현2" src="https://user-images.githubusercontent.com/70565692/100828216-f6cde600-34a1-11eb-8b93-468161ccfd36.png">
 
 
