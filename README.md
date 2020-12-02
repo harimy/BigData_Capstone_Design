@@ -60,6 +60,8 @@ weekly report  주간보고 디렉토리
 
 + [중간보고서](https://github.com/seeoonghoo/BigData_Capstone_Design/blob/master/documents/%EC%BA%A1%EC%8A%A4%ED%86%A4%EB%94%94%EC%9E%90%EC%9D%B8%20%EC%A4%91%EA%B0%84%EB%B3%B4%EA%B3%A0%EC%84%9C(CC).hwp)
 
++ [결과보고서](https://github.com/seeoonghoo/BigData_Capstone_Design/commit/405267f0c6a5d793dacf9ff61b0127c5d12df77d)
+
 ## 회의록
 
 + [minutes](https://github.com/seeoonghoo/BigData_Capstone_Design/tree/master/minutes)
@@ -74,6 +76,7 @@ weekly report  주간보고 디렉토리
   + [9차회의록_201109](https://github.com/seeoonghoo/BigData_Capstone_Design/blob/master/minutes/CC_201109_9%EC%B0%A8_%ED%9A%8C%EC%9D%98%EB%A1%9D.hwp)
   + [10차회의록_201116](https://github.com/seeoonghoo/BigData_Capstone_Design/blob/master/minutes/CC_201116_10%EC%B0%A8_%ED%9A%8C%EC%9D%98%EB%A1%9D.hwp)
   + [11차회의록_201123](https://github.com/seeoonghoo/BigData_Capstone_Design/blob/master/minutes/CC_201123_11%EC%B0%A8_%ED%9A%8C%EC%9D%98%EB%A1%9D.hwp)
+  + [12차회의록_201130](https://github.com/seeoonghoo/BigData_Capstone_Design/blob/master/minutes/CC_201130_12%EC%B0%A8_%ED%9A%8C%EC%9D%98%EB%A1%9D.hwp)
 
 ## 구현
 + 카카오 채널 소개 (사용자 전용)
